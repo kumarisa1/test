@@ -1,5 +1,5 @@
-# Portal Test Repository
+Portal Test Repository
 ====
 # Two branches
- * master *
- * dev *
+ * master
+ * dev
